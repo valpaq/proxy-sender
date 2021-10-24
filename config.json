@@ -1,0 +1,10 @@
+{
+    "address_contract": "",
+    "http_connect": "https://rinkeby.infura.io/v3/",
+    "privatekey": "",
+    "author_address": "", 
+    "INFURAID": "",
+    "appropriate_gas_amount": 400000,
+    "approve_gas": 400000,
+    "usdt": ""
+}
